@@ -35,7 +35,7 @@ h2 {
 /* Stilius paveikslėliui */
 .mano-foto {
     display: block;
-    max-width: 100%;
+    max-width: 20%;
     height: auto;
     margin: 1em auto;
     border: 2px solid #333;
